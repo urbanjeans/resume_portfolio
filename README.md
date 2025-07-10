@@ -76,6 +76,11 @@ Lorem ipsum
 <hr>
 
 <style>
+img[alt="logo"] {
+width: 120px;  /* or whatever size you want */
+height: auto;
+}
+  
 .project-cards {
   display: flex;
   flex-wrap: wrap;
