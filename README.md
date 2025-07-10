@@ -77,8 +77,8 @@ Lorem ipsum
 
 <style>
 img[alt="logo"] {
-width: 120px;  /* or whatever size you want */
-height: auto;
+  width: 120px;    /* change this to your preferred size */
+  height: auto;
 }
   
 .project-cards {
