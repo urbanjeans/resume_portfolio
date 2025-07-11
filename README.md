@@ -127,9 +127,10 @@ a:hover {
 .project-cards {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 10px;
   margin-top: 1rem;
   justify-content: space-between;
+  box-sizing: border-box;
 }
 
 .card {
@@ -140,6 +141,7 @@ a:hover {
   transition: transform 0.2s;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
   height: 100%;
+  box-sizing: border-box;
 }
 
 .card:hover {
@@ -147,18 +149,18 @@ a:hover {
 }
 
 .card img {
-  width: 100%;        
-  max-height: 250px;  
+  height: 100%;
+  max-width: 200;          
   object-fit: cover;  
   border-radius: 3px; 
 }
 
 .card-link {
+  display: block;
   text-decoration: none;
   color: inherit;
-  display: block;
-  flex: 1 1 48%;  
-  max-width: 48%;
+  flex: 1 1 calc(50% - 10px); /* two cards per row, minus the gap */
+  box-sizing: border-box;
 }
 
 .card-text {
