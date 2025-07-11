@@ -46,11 +46,11 @@
 
 ### Conference Presentations
 
-Ong, J. W. K., Teriyapirom, A., Wee, E. X. N., Chng, S. C. W., Chong, K. H., & Pook, I. (2025). The Modern Mamak: Exploring the New Socio-spatial Roles of Mamak Shops in Modern Singapore [Presentation]. Environmental Design Research Association (EDRA 56), Halifax, Canada.
+Ong, J. W. K., Teriyapirom, A., Wee, E. X. N., Chng, S. C. W., Chong, K. H., & Pook, I. (2025). *The Modern Mamak: Exploring the New Socio-spatial Roles of Mamak Shops in Modern Singapore* [Presentation]. Environmental Design Research Association (EDRA 56), Halifax, Canada.
 
-Jimenez, J. S., & Ong, J. W. K. (2025). Quite a Lot in Commons: Two Adaptation Climate Strategies in the Greater Madrid Area [Presentation]. International Conference on Urban Climate (ICUC12), Rotterdam, Netherlands.
+Jimenez, J. S., & Ong, J. W. K. (2025). *Quite a Lot in Commons: Two Adaptation Climate Strategies in the Greater Madrid Area [Presentation]*. International Conference on Urban Climate (ICUC12), Rotterdam, Netherlands.
 
-Teriyapirom, A., Ong, J. W. K., Wee, E. X. N., Chng, S. C. W., & Chong, K. H. (2025). Activating Underused Left-over Public Spaces: A Community-Driven Viaduct Fiesta (VIASTA) Movement to Urban Resilience and Well-Being [Presentation]. Environmental Design Research Association (EDRA 56), Halifax, Canada.
+Teriyapirom, A., Ong, J. W. K., Wee, E. X. N., Chng, S. C. W., & Chong, K. H. (2025). *Activating Underused Left-over Public Spaces: A Community-Driven Viaduct Fiesta (VIASTA) Movement to Urban Resilience and Well-Being* [Presentation]. Environmental Design Research Association (EDRA 56), Halifax, Canada.
 
 <hr>
 
