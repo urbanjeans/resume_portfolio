@@ -121,9 +121,21 @@ img[alt="logo"] {
 
   
 img[alt="logo"] {
-  width: 140px;
+  width: 100px;
   height: auto;
   display: block;
   margin: 0 auto;
+}  
+
+a {
+  color: #0077cc;
+  font-weight: 500;        /* or 400, depending on your preference */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cc5500;
+  text-decoration: underline;
+  font-weight: 500;        /* keep same weight on hover */
 }  
 </style>
