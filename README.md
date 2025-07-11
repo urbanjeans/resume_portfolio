@@ -115,8 +115,15 @@ img[alt="logo"] {
 .card a {
   display: inline-block;
   margin-top: 0.5rem;
-  color: #0366d6;
   font-weight: semibold;
   text-decoration: none;
 }
+
+  
+img[alt="logo"] {
+  width: 140px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}  
 </style>
