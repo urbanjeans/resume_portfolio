@@ -42,14 +42,14 @@ MSc in Architecture, Urbanism and Building Sciences (Landscape Architecture)
 
 <hr>
 
+
 ### Conference Presentations
 Lorem ipsum
 
 <hr>
 
+
 # Research Projects
-
-
 
 <div class="project-cards">
 
@@ -127,19 +127,19 @@ a:hover {
 .project-cards {
   display: flex;
   flex-wrap: wrap;
-  gap: 5px;
+  gap: 8px;
   margin-top: 1rem;
+  justify-content: space-between;
 }
 
 .card {
-  flex: 1 1 250; 
-  max-width: calc(42% - 20px);
   border: 0.7px solid #ddd;
   padding: 1rem;
-  border-radius: 2px;
+  border-radius: 3px;
   background-color: #ffffff;
   transition: transform 0.2s;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  height: 100%;
 }
 
 .card:hover {
@@ -150,19 +150,27 @@ a:hover {
   width: 100%;        
   max-height: 250px;  
   object-fit: cover;  
-  border-radius: 2px; 
+  border-radius: 3px; 
 }
 
 .card-link {
   text-decoration: none;
   color: inherit;
   display: block;
-  width: 100%;
+  flex: 1 1 48%;  
+  max-width: 48%;
 }
 
 .card-text {
   margin-top: 0.5rem;
   font-weight: 500;
   font-size: 0.95rem;
+}
+
+@media (max-width: 768px) {
+  .card-link {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
 }
 </style>
