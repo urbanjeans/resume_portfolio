@@ -119,7 +119,10 @@ img[alt="logo"] {
   text-decoration: none;
 }
 
-  
+img[alt="logo"] {
+  width: 150px;
+  height: auto;
+}  
 
 a {
   color: #0077cc;
