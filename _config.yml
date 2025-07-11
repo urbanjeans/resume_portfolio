@@ -1,5 +1,11 @@
 title: "Jean Ong<br>Wueng Kee"
 logo: /assets/img/jean_circ.png
-description: "wuengkee_ong@sutd.edu.sg <br> +31 659312777 | +65 88797570 <hr> <a href='https://github.com/urbanjeans'>Resume<br></a> <br> <a href='https://github.com/urbanjeans'>Projects</a> <hr><hr>"
+description: >
+  wuengkee_ong@sutd.edu.sg <br> 
+  +31 659312777 | +65 88797570 
+  <hr> 
+  <a href='https://github.com/urbanjeans'>Resume</a> <br><br> 
+  <a href='https://github.com/urbanjeans'>Projects</a> <br><br> 
+  <hr>
 show_downloads: false
 theme: jekyll-theme-minimal
