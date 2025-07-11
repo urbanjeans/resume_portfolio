@@ -62,23 +62,45 @@ Lorem ipsum
     </div>
   </a>
 
-  <div class="card">
-    <img src="assets/img/1990s.png" alt="Map of provision shops in singapore in 1990 (part of a timelapse series of maps)" />
-    <a href="https://github.com/urbanjeans/mamak-mapper" target="_blank">The Modern Mamak: mapping mamak shops since the 1980s</a>
-  </div>
+  <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank" class="card-link">
+    <div class="card">
+      <img src="assets/img/Accessibility.png" alt="Accessibility map of natural spaces in Singapore" />
+      <div class="card-text">
+        Good Public Spaces: Mapping accessibility of nature spaces across Singapore
+      </div>
+    </div>
+  </a>
 
-  <div class="card">
-    <img src="assets/img/spearmanns.png" alt="Spearman's correlation between provision shops and supermarkets and HDBs " />
-    <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank">The Modern Mamak: Exploritory Data Analsyis (EDA) of mamak shops in Singapore</a>
-  </div>
+  <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank" class="card-link">
+    <div class="card">
+      <img src="assets/img/1990s.png" alt="Map of provision shops in singapore in 1990 (part of a timelapse series of maps)" />
+      <div class="card-text">
+        The Modern Mamak: mapping mamak shops since the 1980s
+      </div>
+    </div>
+  </a>
 
+  <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank" class="card-link">
+    <div class="card">
+      <img src="assets/img/spearmanns.png" alt="Spearman's correlation between provision shops and supermarkets and HDBs" />
+      <div class="card-text">
+        The Modern Mamak: Exploritory Data Analsyis (EDA) of mamak shops in Singapore
+      </div>
+    </div>
+  </a>
+
+  <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank" class="card-link">
   <div class="card">
     <img src="assets/img/mindmap.png" alt="Concept map of common themes of shop owner participants and local communities" />
-    <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank">The Modern Mamak: Preliminary analysis of interviews and shop owners' participation</a>
+    <div class="card-text">
+      The Modern Mamak: Preliminary analysis of interviews and shop owners' participation
+    </div>
   </div>
-</div>
+</a>
+
 
 <hr>
+
 
 <style>
 header img {
