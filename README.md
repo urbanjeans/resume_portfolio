@@ -149,24 +149,26 @@ a:hover {
 }
 
 .card img {
-  height: 200;
-  width: 200;          
-  object-fit: cover;  
-  border-radius: 3px; 
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 3px;
+  display: block;
+  margin: 0 auto;
 }
 
 .card-link {
   display: block;
   text-decoration: none;
   color: inherit;
-  flex: 1 1 calc(50% - 10px); /* two cards per row, minus the gap */
+  width: calc(50% - 10px); 
   box-sizing: border-box;
 }
 
 .card-text {
   margin-top: 0.5rem;
   font-weight: 500;
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 
 @media (max-width: 768px) {
