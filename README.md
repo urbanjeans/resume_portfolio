@@ -49,13 +49,18 @@ Lorem ipsum
 
 # Research Projects
 
+
+
 <div class="project-cards">
 
-
-  <div class="card">
-    <img src="assets/img/Habitats and Tree Canopy.png" alt="Result of mapping natural spaces and levels of accessibilities of nature spaces in Singapore" />
-    <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank">Good Public Spaces: Mapping natural habitats in Singapore with remote sensing and government datasets</a>
-  </div>
+  <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank" class="card-link">
+    <div class="card">
+      <img src="assets/img/Habitats and Tree Canopy.png" alt="Map of natural spaces in Singapore" />
+      <div class="card-text">
+        Good Public Spaces: Mapping natural habitats in Singapore with remote sensing and government datasets
+      </div>
+    </div>
+  </a>
 
   <div class="card">
     <img src="assets/img/1990s.png" alt="Map of provision shops in singapore in 1990 (part of a timelapse series of maps)" />
