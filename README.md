@@ -107,7 +107,8 @@ header img {
   width: 140px !important;
   height: auto !important;
 }  
- 
+
+  
 
 a {
   color: #b20738;
@@ -121,18 +122,18 @@ a:hover {
   font-weight: 400;       
 }
   
+
   
 .project-cards {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 5px;
   margin-top: 1rem;
 }
 
-
 .card {
   flex: 1 1 250; 
-  max-width: calc(45% - 20px);
+  max-width: calc(42% - 20px);
   border: 0.7px solid #ddd;
   padding: 1rem;
   border-radius: 2px;
@@ -152,11 +153,16 @@ a:hover {
   border-radius: 2px; 
 }
 
-
-.card a {
-  display: inline-block;
-  margin-top: 0.5rem;
-  font-weight: 400;
+.card-link {
   text-decoration: none;
-}  
+  color: inherit;
+  display: block;
+  width: 100%;
+}
+
+.card-text {
+  margin-top: 0.5rem;
+  font-weight: 500;
+  font-size: 0.95rem;
+}
 </style>
