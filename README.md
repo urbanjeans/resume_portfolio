@@ -120,12 +120,6 @@ img[alt="logo"] {
 }
 
   
-img[alt="logo"] {
-  width: 100px;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}  
 
 a {
   color: #0077cc;
