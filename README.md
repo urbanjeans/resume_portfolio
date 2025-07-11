@@ -149,8 +149,8 @@ a:hover {
 }
 
 .card img {
-  height: 100%;
-  max-width: 200;          
+  height: auto;
+  width: 200;          
   object-fit: cover;  
   border-radius: 3px; 
 }
