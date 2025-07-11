@@ -149,7 +149,7 @@ a:hover {
 }
 
 .card img {
-  height: auto;
+  height: 200;
   width: 200;          
   object-fit: cover;  
   border-radius: 3px; 
