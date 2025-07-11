@@ -76,10 +76,24 @@ Lorem ipsum
 <hr>
 
 <style>
-img[alt="logo"] {
-  width: 120px;    /* change this to your preferred size */
-  height: auto;
+header img {
+  width: 140px !important;
+  height: auto !important;
+}  
+ 
+
+a {
+  color: #b20738;
+  font-weight: 400;        
+  text-decoration: none;
 }
+
+a:hover {
+  color: #b20738;
+  text-decoration: none;
+  font-weight: 400;       
+}
+  
   
 .project-cards {
   display: flex;
@@ -115,24 +129,7 @@ img[alt="logo"] {
 .card a {
   display: inline-block;
   margin-top: 0.5rem;
-  font-weight: semibold;
+  font-weight: 400;
   text-decoration: none;
-}
-
-img[alt="logo"] {
-  width: 150px;
-  height: auto;
-}  
-
-a {
-  color: #0077cc;
-  font-weight: 500;        /* or 400, depending on your preference */
-  text-decoration: none;
-}
-
-a:hover {
-  color: #cc5500;
-  text-decoration: underline;
-  font-weight: 500;        /* keep same weight on hover */
 }  
 </style>
