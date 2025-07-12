@@ -60,7 +60,9 @@ header img {
   height: auto !important;
 }  
 
-  
+.sidebar-link {
+  font-weight: bold;
+}  
 
 a {
   color: #b20738;
