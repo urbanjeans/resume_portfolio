@@ -1,5 +1,9 @@
 # Research Projects
 
+Hello! Welcome to my portfolio repository. These are the workings of some projects that I led or was involved in during my stint as a Senior Research Asst at SUTD (and my graduation thesis from TU Delft). My work here delved into urban design challenges of modern cities and the different approaches used to alleviate them: community engagement through participatory design, GIS and data science. Each link leads to an elaboration of each phase and the documentation in code. 
+
+<br>
+
 <div class="project-cards">
 
   <a href="https://urbanjeans.github.io/dfn-dashboard" target="_blank" class="card-link">
