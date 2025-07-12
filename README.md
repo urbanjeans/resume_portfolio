@@ -59,11 +59,7 @@ Hello! Welcome to my portfolio repository. These are the workings of some projec
 header img {
   width: 140px !important;
   height: auto !important;
-}  
-
-header a {
-  font-weight: bold;
-}  
+}   
 
 a {
   color: #b20738;
