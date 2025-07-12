@@ -60,7 +60,7 @@ header img {
   height: auto !important;
 }  
 
-header a {
+header p a {
   font-weight: bold;
 } 
 
