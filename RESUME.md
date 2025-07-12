@@ -60,9 +60,6 @@ header img {
   height: auto !important;
 }  
 
-header p a {
-  font-weight: bold;
-} 
 
 a {
   color: #b20738;
