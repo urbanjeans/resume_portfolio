@@ -8,10 +8,23 @@
     <em>Technische Universiteit Delft</em>
   </div>
   <div class="entry-right">
-    <em>2022 – 2022</em>
+    <em>2022 – 2024</em>
   </div>
 </div>
+
 <br>
+
+<div class="entry">
+  <div class="entry-left">
+    GIS, Mapping and Spatial Analysis Speicalisation<br>
+    <em>University of Toronto</em>
+  </div>
+  <div class="entry-right">
+    <em>2025 - Present</em>
+  </div>
+</div>
+
+
 <hr>
 
 ### Research Experience
