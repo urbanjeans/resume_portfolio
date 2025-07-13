@@ -20,7 +20,7 @@
     <em>University of Toronto</em>
   </div>
   <div class="entry-right">
-    <em>2025 - Present</em>
+    <em>2025 - Present (ongoing)</em>
   </div>
 </div>
 
