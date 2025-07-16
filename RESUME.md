@@ -56,7 +56,7 @@
 <hr>
 
 
-### Conference Presentations
+### Conference Presentations / Proceedings
 
 Ong, J. W. K., Teriyapirom, A., Wee, E. X. N., Chng, S. C. W., Chong, K. H., & Pook, I. (2025). *The Modern Mamak: Exploring the New Socio-spatial Roles of Mamak Shops in Modern Singapore* [Presentation]. Environmental Design Research Association (EDRA 56), Halifax, Canada.
 
