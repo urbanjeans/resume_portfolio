@@ -30,7 +30,7 @@
 ### Research Experience
 <div class="entry">
   <div class="entry-left">
-    <em>Singapore University of Technology and Design (SUTD)</em>
+    <em>Senior Research Assistant @ Singapore University of Technology and Design (SUTD)</em>
   </div>
   <div class="entry-right">
     <em>2024 – Presesnt</em>
