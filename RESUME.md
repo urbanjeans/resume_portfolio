@@ -46,7 +46,7 @@
   - Organised participatory workshops for residents to give new meaning to a neglected space within the Changi Simei resdiential district
   - Worked with community to transform underused spaces within residential areas into a vibrant fiesta championing sustainability and care
   - Co-presented the project at the 56th Environmental Design Research Association (EDRA) conference
-- Good Public Spaces
+- TROPICA
   - Led the mapping of public spaces based on government datasets and remote sensing and preliminary exploratory data analysis (EDA) phase
 - Providing assistance in other projects through:
   - Quantitative Analyses
